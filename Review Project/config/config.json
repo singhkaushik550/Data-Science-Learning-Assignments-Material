@@ -1,0 +1,14 @@
+{
+    "table_name": "review_table",
+    "columns": [
+        {
+            "name": "positive",
+            "type": "varchar(100)"
+        },
+        {
+            "name": "good_products",
+            "type": "varchar(100)"     
+        }
+    
+    ]
+}
